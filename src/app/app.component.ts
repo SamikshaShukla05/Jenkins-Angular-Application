@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   standalone: true,
   imports: [],
-  template: `<h1>Default  angular app</h1>`,
+  template: `<h1>Default  angular app test case 1</h1>`,
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
